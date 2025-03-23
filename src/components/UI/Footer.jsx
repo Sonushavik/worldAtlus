@@ -36,7 +36,7 @@ const Footer = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
+                <NavLink>
                   Sonu.dev
                 </NavLink>
               </p>
